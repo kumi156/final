@@ -169,6 +169,7 @@ p {
     transition: background-color 0.1s ease;
     width: 50px;
     margin-right: 20px;
+    padding: ;
 }
 
 .grid.active .card {
@@ -223,4 +224,10 @@ p {
     background-position: static;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.card p{
+    margin: 0;
+    font-size: 3rem;
+    padding-bottom: 0;
 }
