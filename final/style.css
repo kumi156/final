@@ -217,3 +217,10 @@ p {
     color: #16bae3;
     filter: drop-shadow(0 1px 12px rgb(6, 209, 255));
 }
+.page3 {
+    background-color: #ffffff;
+    background-size: cover;
+    background-position: static;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
