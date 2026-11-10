@@ -169,7 +169,6 @@ p {
     transition: background-color 0.1s ease;
     width: 50px;
     margin-right: 20px;
-    padding: ;
 }
 
 .grid.active .card {
@@ -217,13 +216,6 @@ p {
 .gold {
     color: #16bae3;
     filter: drop-shadow(0 1px 12px rgb(6, 209, 255));
-}
-.page3 {
-    background-color: #ffffff;
-    background-size: cover;
-    background-position: static;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 .card p{
